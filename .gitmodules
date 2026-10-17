@@ -1,0 +1,3 @@
+[submodule "vendor/ratelib"]
+	path = vendor/ratelib
+	url = https://github.com/Ayushkiller/ratelib-upstream-25667.git
